@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+
+<Modelo3IRSv2013 xmlns="http://www.dgci.gov.pt/2009/Modelo3IRSv2013" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.dgci.gov.pt/2009/Modelo3IRSv2013 Modelo3IRSv2013.xsd" versao="1" >
+  <Rosto>
+    <QuadroInicio>
+    </QuadroInicio>
+    <Quadro01>
+      <Q01C01 >3514</Q01C01>
+    </Quadro01>
+    <Quadro02>
+      <Q02C02 >2012</Q02C02>
+    </Quadro02>
+    <Quadro03>
+      <Q03C03 >144352460</Q03C03>
+      <Q03C04 >144352443</Q03C04>
+      <Rostoq03DT1 >
+      </Rostoq03DT1>
+    </Quadro03>
+    <Quadro04>
+      <Q04B1 >1</Q04B1>
+    </Quadro04>
+    <Quadro05>
+      <Q05B1 >1</Q05B1>
+    </Quadro05>
+    <Quadro06>
+      <Q06B1 >1</Q06B1>
+    </Quadro06>
+    <Quadro07>
+      <Rostoq07ET1 >
+      </Rostoq07ET1>
+      <Rostoq07CT1 >
+      </Rostoq07CT1>
+      <Q07D01 >001000002723463000171</Q07D01>
+      <Q07D01a >true</Q07D01a>
+    </Quadro07>
+    <Quadro09>
+    </Quadro09>
+  </Rosto>
+  <AnexoA>
+    <Quadro02>
+      <AnexoAq02C01 >2012</AnexoAq02C01>
+    </Quadro02>
+    <Quadro03>
+      <AnexoAq03C02 >144352460</AnexoAq03C02>
+      <AnexoAq03C03 >144352443</AnexoAq03C03>
+    </Quadro03>
+    <Quadro04>
+      <AnexoAq04T4A >
+        <AnexoAq04T4A-Linha numero="1">
+          <NIF >500918880</NIF>
+          <CodRendimentos >404</CodRendimentos>
+          <Titular >A</Titular>
+          <Rendimentos >3891.82</Rendimentos>
+          <Retencoes >0.00</Retencoes>
+          <Contribuicoes >0.00</Contribuicoes>
+          <RetSobretaxa >0.00</RetSobretaxa>
+        </AnexoAq04T4A-Linha>
+        <AnexoAq04T4A-Linha numero="2">
+          <NIF >505305500</NIF>
+          <CodRendimentos >404</CodRendimentos>
+          <Titular >A</Titular>
+          <Rendimentos >23318.40</Rendimentos>
+          <Retencoes >2875.94</Retencoes>
+          <Contribuicoes >0.00</Contribuicoes>
+          <RetSobretaxa >0.00</RetSobretaxa>
+        </AnexoAq04T4A-Linha>
+      </AnexoAq04T4A>
+      <AnexoAq04C1 >27210.22</AnexoAq04C1>
+      <AnexoAq04C2 >2875.94</AnexoAq04C2>
+      <AnexoAq04C3 >0.00</AnexoAq04C3>
+      <AnexoAq04C4 >0.00</AnexoAq04C4>
+      <AnexoAq04T4B >
+      </AnexoAq04T4B>
+      <AnexoAq04T4Ba >
+      </AnexoAq04T4Ba>
+    </Quadro04>
+    <Quadro05>
+      <AnexoAq05T5 >
+      </AnexoAq05T5>
+    </Quadro05>
+  </AnexoA>
+  <AnexoH>
+    <Quadro02>
+      <AnexoHq02C01 >2012</AnexoHq02C01>
+    </Quadro02>
+    <Quadro03>
+      <AnexoHq03C02 >144352460</AnexoHq03C02>
+      <AnexoHq03C03 >144352443</AnexoHq03C03>
+    </Quadro03>
+    <Quadro04>
+      <AnexoHq04T4 >
+      </AnexoHq04T4>
+    </Quadro04>
+    <Quadro05>
+      <AnexoHq05T5 >
+      </AnexoHq05T5>
+    </Quadro05>
+    <Quadro06>
+      <AnexoHq06C1 >0.00</AnexoHq06C1>
+      <AnexoHq06T1 >
+      </AnexoHq06T1>
+    </Quadro06>
+    <Quadro07>
+      <AnexoHq07T7 >
+      </AnexoHq07T7>
+    </Quadro07>
+    <Quadro08>
+      <AnexoHq08T1 >
+        <AnexoHq08T1-Linha numero="1">
+          <NIF >A</NIF>
+          <AnexoHq08C802 >995.48</AnexoHq08C802>
+        </AnexoHq08T1-Linha>
+      </AnexoHq08T1>
+      <AnexoHq08T814 >
+      </AnexoHq08T814>
+    </Quadro08>
+    <Quadro09>
+      <AnexoHq09B1 >2</AnexoHq09B1>
+      <AnexoHq09C901 >501293310</AnexoHq09C901>
+    </Quadro09>
+    <Quadro10>
+    </Quadro10>
+  </AnexoH>
+</Modelo3IRSv2013>
